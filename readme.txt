@@ -1,4 +1,4 @@
-This repertory is based on https://github.com/NeoLTK/Beetle-Rubber-Ducky.git
+This repertory is based on https://github.com/luisbraganca/rubber-ducky-library-for-arduino
 
 This repository is optimized code, rewrite the library on object type for easy use.
 
